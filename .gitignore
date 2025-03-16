@@ -1,0 +1,7 @@
+# File: .gitignore
+bin/
+*.exe
+*.log
+*.tmp
+dist/
+vendor/
