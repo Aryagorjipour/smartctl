@@ -18,13 +18,14 @@ A smart and intuitive TUI (Terminal User Interface) application to manage and in
 ```bash
 go install github.com/Aryagorjipour/smartctl/cmd/cli@latest
 ```
+Ensure your Go bin directory ($GOPATH/bin or $HOME/go/bin) is added to your system PATH environment.
 
 ## ⚙️ Usage
 
 Run directly from the terminal:
 
 ```bash
-smartctl
+smartyctl
 ```
 
 ---
