@@ -5,3 +5,7 @@ bin/
 *.tmp
 dist/
 vendor/
+
+
+# goland
+.idea/
